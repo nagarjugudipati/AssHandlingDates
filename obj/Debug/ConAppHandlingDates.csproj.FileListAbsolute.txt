@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\bin\Debug\ConAppHandlingDates.exe.config
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\bin\Debug\ConAppHandlingDates.exe
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\bin\Debug\ConAppHandlingDates.pdb
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\obj\Debug\ConAppHandlingDates.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\obj\Debug\ConAppHandlingDates.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\obj\Debug\ConAppHandlingDates.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\obj\Debug\ConAppHandlingDates.exe
+D:\Mphasis\Assested Projects\ConAppHandlingDates\ConAppHandlingDates\obj\Debug\ConAppHandlingDates.pdb
